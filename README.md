@@ -1,2 +1,2 @@
-# quantumsoil
-Quantum Soil
+# quantumsoilsolution
+Quantum Soil Solution

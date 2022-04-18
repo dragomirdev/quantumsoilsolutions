@@ -47,4 +47,7 @@ Facebook: @consciousplanetmovement @Sadhguru
 
 Instagram & YouTube: @ConsciousPlanet @Sadhguru
 
-![Alt text](https://www.datocms-assets.com/60396/1648286746-english.png)
+
+<a href="https://savesoil.org" target="_blank">
+<img src="https://www.datocms-assets.com/60396/1648286746-english.png"/>
+</a>

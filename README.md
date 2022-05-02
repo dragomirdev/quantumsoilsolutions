@@ -36,6 +36,8 @@ Quantum Computing - Google Quantum Computing/Machine Learning
 
 Supercomputer - Google TPUv3 (125 Petaflops)
 
+BigData - Big Table, Big Query
+
 PennyLane - A cross-platform Python library for differentiable programming of Quantum Computers   
 
 

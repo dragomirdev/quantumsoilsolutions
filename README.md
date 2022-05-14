@@ -5,6 +5,8 @@ Quantum Soil Solution is an Artificial Intelligence solution that predicts Soil 
 
 SOM is a key indicator of soil fertility and its quality which will help in decision making process for scientific fertilisation of agricultural land.
 
+Also, it will provide satellite image analysis to predict crop conditions and yields.  This will help the agriculural sector to increase productivity and reduce overall costs of food production.
+
 # Why
 
 Why is this project important?
@@ -29,16 +31,9 @@ The project will allow faster processing of SOM data and thus identify areas of 
 
 This will also benefit governments to keep investing in agricultural land with sustainable future growth.
 
-# Implementation Technology
-Artificial Intelligence  - Google Tensorflow
+# Solution Architecture
 
-Quantum Computing - Google Quantum Computing/Machine Learning
 
-Supercomputer - Google TPUv3 (125 Petaflops)
-
-BigData - Big Table, Big Query
-
-PennyLane - A cross-platform Python library for differentiable programming of Quantum Computers   
 
 
 # Social Media

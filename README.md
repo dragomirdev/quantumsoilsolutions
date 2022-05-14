@@ -35,6 +35,7 @@ This will also benefit governments to keep investing in agricultural land with s
 
 ![Alt text](src/img/QuantumSoilSolutions.png?raw=true "Title")
 
+The implementation uses Google Cloud technology stack.
 
 The Solution Architecture is designed into 5 different distinct layers i.e.:
 
@@ -50,11 +51,36 @@ If there is a port clash for any reason, you will be given an option to run it o
 
 ## Integration
 
+The Integration Layer is implemented by connecting to Satellite Image data sources directly or indirectly.  
+
+Also, the Soil images are stored in a temporary storage location before they are sent to the Data Layer.
+
 ## Data
+
+The Data Layer is made of 3 main components i.e. :
+
+BigTable - NoSQL database to process billions of satellite and soil images.
+
+BigQuery - SQL database to process millions of pre-processed images.
+
+DataProc Spark - Data Processing framework that is the main data processing engine for the entire solution.
 
 ## Business
 
+The Business Layer is made of 3 main components i.e. :
+
+AI Engine with Vertex - Most of Artificial Intelligence processing will be done by using Google Vertex engine.
+
+Google Quantum - Quantum AI Hybrid processing will be executed with the latest Google Quantum engine which will provide faster execution. 
+
+Google TPU4 - In combination TPU4 will be used to provide additional computational speed for complex AI processing which will be in the range of 1.1 Exaflops.
+
+
 ## Presentation
+
+The solution will provide both Web and Mobile applications for the end users.
+
+The web application will be based on the React web framework whereas Mobile will be implemented with Android and iOS.
 
 
 # Social Media

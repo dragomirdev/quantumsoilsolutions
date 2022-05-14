@@ -33,7 +33,28 @@ This will also benefit governments to keep investing in agricultural land with s
 
 # Solution Architecture
 
+![Alt text](src/img/QuantumSoilSolutions.png?raw=true "Title")
 
+
+The Solution Architecture is designed into 5 different distinct layers i.e.:
+
+## Security
+
+The Security Layer is implemented by using the AuthO.com services in conjuntion with Google Security.
+
+Please go to https://auth0.com/ and follow basic instructions to setup the account.  The Free account allows many users to join which should be sufficient to run this projects.
+
+When you start the service on your local server, it will run the service on port 3000 by default.
+
+If there is a port clash for any reason, you will be given an option to run it on port 3001.
+
+## Integration
+
+## Data
+
+## Business
+
+## Presentation
 
 
 # Social Media

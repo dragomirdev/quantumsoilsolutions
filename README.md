@@ -33,7 +33,7 @@ This will also benefit governments to keep investing in agricultural land with s
 
 # Solution Architecture
 
-
+![Alt text](src/img/QuantumSoilSolutions.png?raw=true "Title")
 
 
 # Social Media

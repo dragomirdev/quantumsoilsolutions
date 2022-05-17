@@ -1,11 +1,15 @@
 
 # Quantum Soil Solution
 
-Quantum Soil Solution is an Artificial Intelligence solution that predicts Soil Organic Matter (SOM) using visible and near-infrared spectroscopy.
+Quantum Soil Solution is a Quantum Artificial Intelligence solution that is designed to :
 
-SOM is a key indicator of soil fertility and its quality which will help in decision making process for scientific fertilisation of agricultural land.
+* Predict Soil Organic Matter (SOM) using visible and near-infrared spectroscopy.
 
-Also, it will provide satellite image analysis to predict crop conditions and yields.  This will help the agriculural sector to increase productivity and reduce overall costs of food production.
+  SOM is a key indicator of soil fertility and its quality which will help in decision making process for scientific fertilisation of agricultural land.
+
+* Provide satellite image analysis to predict crop conditions and yields.  T
+   
+  his will help the agriculural sector to increase productivity and reduce overall costs of food production.
 
 # Why
 

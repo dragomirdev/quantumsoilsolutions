@@ -82,6 +82,58 @@ The solution will provide both Web and Mobile applications for the end users.
 
 The web application will be based on the React web framework whereas Mobile will be implemented with Android and iOS.
 
+# Installation
+
+## Presentation Layer
+
+The presentation layer is implemented with 
+
+### ReactJS
+
+### HTML5
+
+### CSS3
+
+After git clone, please go to [cloned directory]/src/web
+
+**Install NodeJS**
+
+Go to https://nodejs.org/en/download/ and download/install the appropriate installer for your environment
+
+**Install NPM**
+
+npm install
+
+**To start the web app**
+
+npm start
+
+After the start you should see
+
+![Alt text](src/img/wheatfieldtext.png?raw=true "Title")
+
+## Security Layer
+
+The security layer is implemented with Auth0 and Google Security framework.
+
+After git clone, please go to [cloned directory]/src/security
+
+* Go to auth0.com and register an account.
+
+* Change the .env file with values from Auth0 account, Applications--Settings.
+
+* In Auth0, in Applications-->Settings, set the Allowed Callback URLs to http://localhost:4000/callback
+
+* The 4000 port can be changed in server.py (last line of code).
+* From the command line, start the security auth0 client with **python3 server.py**
+
+After the start you should see
+
+![Alt text](src/img/auth0main.png?raw=true "Title")
+
+After successful login you should see a **Satellite Image of London and the level of Terrestrial Chlorophyl**
+
+![Alt text](src/img/SatelliteScan.png?raw=true "Title")
 
 # Social Media
 

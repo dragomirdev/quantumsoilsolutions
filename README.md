@@ -9,7 +9,7 @@ Quantum Soil Solution is a Quantum Artificial Intelligence solution that is desi
 
 * Provide satellite image analysis to predict crop conditions and yields.  T
    
-  his will help the agriculural sector to increase productivity and reduce overall costs of food production.
+  This will help the agriculural sector to increase productivity and reduce overall costs of food production.
 
 # Why
 

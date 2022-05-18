@@ -106,11 +106,15 @@ Go to https://nodejs.org/en/download/ and download/install the appropriate insta
 
 **Install NPM**
 
-npm install
+*npm install*
 
 **To start the web app**
 
-npm start
+Go to directory quantumsoilsolutions/presentation/web
+
+To start the web application execute:
+
+*npm start*
 
 After the start you should see
 

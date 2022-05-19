@@ -37,7 +37,7 @@ This will also benefit governments to keep investing in agricultural land with s
 
 # Solution Architecture
 
-![Alt text](src/img/QuantumSoilSolutions.png?raw=true "Title")
+![Alt text](presentation/web/src/assets/images/QuantumSoilSolutions.png?raw=true "Title")
 
 The implementation uses Google Cloud technology stack.
 
@@ -118,7 +118,7 @@ To start the web application execute:
 
 After the start you should see
 
-![Alt text](src/img/wheatfieldtext.png?raw=true "Title")
+![Alt text](presentation/web/src/assets/images/wheatfieldtext.png?raw=true "Title")
 
 ## Security Layer
 
@@ -137,11 +137,11 @@ After git clone, please go to [cloned directory]/src/security
 
 After the start you should see
 
-![Alt text](src/img/auth0main.png?raw=true "Title")
+![Alt text](presentation/web/src/assets/images/auth0main.png?raw=true "Title")
 
 After successful login you should see a **Satellite Image of London and the level of Terrestrial Chlorophyl**
 
-![Alt text](src/img/SatelliteScan.png?raw=true "Title")
+![Alt text](presentation/web/src/assets/images/SatelliteScan.png?raw=true "Title")
 
 # Social Media
 

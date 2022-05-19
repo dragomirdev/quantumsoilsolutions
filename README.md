@@ -124,7 +124,7 @@ After the start you should see
 
 The security layer is implemented with Auth0 and Google Security framework.
 
-After git clone, please go to [cloned directory]/src/security
+### After git clone, please go to [cloned directory]/src/security
 
 * Go to auth0.com and register an account.
 
@@ -135,7 +135,15 @@ After git clone, please go to [cloned directory]/src/security
 * The 4000 port can be changed in server.py (last line of code).
 * From the command line, start the security auth0 client with **python3 server.py**
 
-After the start you should see
+### To install necessary Python libraries, go to security/src and execute
+
+pip install -r requirements.txt
+
+### To start the Auth0 app, go to security/src and execute
+
+python3 server.py
+
+### After the start you should see
 
 ![Alt text](presentation/web/src/assets/images/auth0main.png?raw=true "Title")
 
